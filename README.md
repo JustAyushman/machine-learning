@@ -54,4 +54,4 @@ Working through this collection provided practical experience across the full ma
 
 The projects also reinforced model evaluation discipline, including train-test splitting, cross-validation, hyperparameter tuning, and the use of metrics such as RMSE, R2, precision, recall, F1, ROC AUC, and lift. Comparing linear baselines with tree-based models, SVM variants, and Keras networks helped develop judgment about complexity, overfitting, and interpretability.
 
-Most of the work was carried out through self-directed learning, primarily using YouTube tutorials and AI assistance for concepts, code structure, and debugging. Whenever progress stalled, additional support was drawn from official documentation, reference articles, instructional videos, and AI explanations to resolve errors and refine the approach.
+`Most of the work was carried out through self-directed learning, primarily using YouTube tutorials and AI assistance for concepts, code structure, and debugging. Whenever progress stalled, additional support was drawn from official documentation, reference articles, instructional videos, and AI explanations to resolve errors and refine the approach.`
